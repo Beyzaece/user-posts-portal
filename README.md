@@ -72,8 +72,9 @@ Backend
 	•	Test için önce backend’i, sonra frontend’i başlatın.
 	•	ESLint & Prettier desteğiyle kod standardı korunmuştur. 
 ---
-### 💻 2. Web Sitesi Tanıtım Videosu  
+### 🎥 Web Sitesi Tanıtım Videosu
 
-🔗 [Web Sitesi Tanıtım Videosunu İzle](https://youtu.be/Z-PiC36lX-I)  
+[![Web Sitesi Tanıtım Videosunu İzle](https://img.youtube.com/vi/Z-PiC36lX-I/0.jpg)](https://youtu.be/Z-PiC36lX-I)
 
 Resmi web sitesinde bulunan sayfaların kısa bir gezintisi.
+
