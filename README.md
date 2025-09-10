@@ -72,13 +72,8 @@ Backend
 	•	Test için önce backend’i, sonra frontend’i başlatın.
 	•	ESLint & Prettier desteğiyle kod standardı korunmuştur. 
 ---
-## 🖼 Ekran Görüntüleri
+### 💻 2. Web Sitesi Tanıtım Videosu
 
-### 1) Ana Sayfa
-![Home](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/home.png)
-
-### 2) Users Sayfası
-![Users](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/users.png)
-
-### 3) Posts Sayfası
-![Posts](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/posts.png)
+[![Macera Adası Web Sitesi Tanıtımı](https://www.youtube.com/watch?v=Z-PiC36lX-I)](https://www.youtube.com/watch?v=Z-PiC36lX-I)
+ resmi web sitesinde bulunan sayfaların kısa bir gezintisi.
+---
