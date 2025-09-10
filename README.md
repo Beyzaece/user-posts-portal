@@ -76,10 +76,10 @@ Backend
 ## 📸 Ekran Görüntüleri
 
 ### 1. Ana Sayfa
-![Home](C:\Masaüstü\örnekproje\web-assignment\public\home.png)
+![Home](./public/home.png)
 
 ### 2. Users Sayfası
-![Users](C:\Masaüstü\örnekproje\web-assignment\public\users.png)
+![Users](./public/users.png)
 
 ### 3. Posts Sayfası
-![Posts](C:\Masaüstü\örnekproje\web-assignment\public\posts.png)
+![Posts](./public/posts.png)
