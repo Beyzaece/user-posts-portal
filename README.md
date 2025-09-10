@@ -72,14 +72,14 @@ Backend
 	•	Test için önce backend’i, sonra frontend’i başlatın.
 	•	ESLint & Prettier desteğiyle kod standardı korunmuştur. 
 ---
+## 📷 Ekran Görüntüleri
 
-## 📸 Ekran Görüntüleri
-
-### 1. Ana Sayfa
-![Home](./public/home.png)
-
-### 2. Users Sayfası
-![Users](./public/users.png)
-
-### 3. Posts Sayfası
-![Posts](./public/posts.png)
+<p align="center">
+  <img src="./public/home.png" alt="Home" width="900">
+</p>
+<p align="center">
+  <img src="./public/users.png" alt="Users" width="900">
+</p>
+<p align="center">
+  <img src="./public/posts.png" alt="Posts" width="900">
+</p>
