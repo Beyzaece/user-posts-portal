@@ -72,8 +72,8 @@ Backend
 	•	Test için önce backend’i, sonra frontend’i başlatın.
 	•	ESLint & Prettier desteğiyle kod standardı korunmuştur. 
 ---
-### 💻 2. Web Sitesi Tanıtım Videosu
+### 💻 2. Web Sitesi Tanıtım Videosu  
 
-[![Macera Adası Web Sitesi Tanıtımı](https://www.youtube.com/watch?v=Z-PiC36lX-I)](https://www.youtube.com/watch?v=Z-PiC36lX-I)
- resmi web sitesinde bulunan sayfaların kısa bir gezintisi.
----
+[![ Web Sitesi Tanıtımı](https://img.youtube.com/vi/Z-PiC36lX-I/0.jpg)](https://www.youtube.com/watch?v=Z-PiC36lX-I)  
+
+Resmi web sitesinde bulunan sayfaların kısa bir gezintisi.
