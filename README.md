@@ -14,6 +14,9 @@ React + TypeScript + TailwindCSS (frontend) ve NestJS (backend) teknolojileriyle
 - Modern, responsive ve temiz bir arayüz  
 
 ---
+##Tanıtım Videosu
+[![Web Sitesi Tanıtım Videosunu İzle](https://img.youtube.com/vi/Z-PiC36lX-I/0.jpg)](https://youtu.be/Z-PiC36lX-I)
+
 
 ## 📦 Kurulum
 
@@ -72,5 +75,4 @@ Backend
 	•	Test için önce backend’i, sonra frontend’i başlatın.
 	•	ESLint & Prettier desteğiyle kod standardı korunmuştur. 
 ---
-[![Web Sitesi Tanıtım Videosunu İzle](https://img.youtube.com/vi/Z-PiC36lX-I/0.jpg)](https://youtu.be/Z-PiC36lX-I)
 
