@@ -75,10 +75,10 @@ Backend
 ## 🖼 Ekran Görüntüleri
 
 ### 1) Ana Sayfa
-![Home](./public/home.png)
+![Home](public/home.png)
 
 ### 2) Users Sayfası
-![Users](./public/users.png)
+![Users](public/users.png)
 
 ### 3) Posts Sayfası
-![Posts](./public/posts.png)
+![Posts](public/posts.png)
