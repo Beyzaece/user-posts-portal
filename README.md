@@ -72,13 +72,13 @@ Backend
 	•	Test için önce backend’i, sonra frontend’i başlatın.
 	•	ESLint & Prettier desteğiyle kod standardı korunmuştur. 
 ---
-<h2>🖼 Ekran Görüntüleri</h2>
+## 🖼 Ekran Görüntüleri
 
-<h3>1 Ana Sayfa</h3>
-<p><img src="./public/home.png" width="900" /></p>
+### 1) Ana Sayfa
+![Home](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/home.png)
 
-<h3>2 Users Sayfası</h3>
-<p><img src="./public/users.png" width="900" /></p>
+### 2) Users Sayfası
+![Users](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/users.png)
 
-<h3>3 Posts Sayfası</h3>
-<p><img src="./public/posts.png" width="900" /></p>
+### 3) Posts Sayfası
+![Posts](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/posts.png)
