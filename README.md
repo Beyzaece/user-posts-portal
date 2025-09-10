@@ -74,6 +74,7 @@ Backend
 ---
 ### 💻 2. Web Sitesi Tanıtım Videosu  
 
-[![ Web Sitesi Tanıtımı](https://img.youtube.com/vi/Z-PiC36lX-I/0.jpg)](https://www.youtube.com/watch?v=Z-PiC36lX-I)  
+[![Web Sitesi Tanıtımı](https://img.youtube.com/vi/Z-PiC36lX-I/0.jpg)](https://www.youtube.com/watch?v=Z-PiC36lX-I)  
 
 Resmi web sitesinde bulunan sayfaların kısa bir gezintisi.
+
