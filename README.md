@@ -75,10 +75,10 @@ Backend
 ## 🖼 Ekran Görüntüleri
 
 ### 1) Ana Sayfa
-![Home](public/home.png)
+![Home](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/home.png)
 
 ### 2) Users Sayfası
-![Users](public/users.png)
+![Users](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/users.png)
 
 ### 3) Posts Sayfası
-![Posts](public/posts.png)
+![Posts](https://raw.githubusercontent.com/Beyzaece/user-posts-portal/main/public/posts.png)
