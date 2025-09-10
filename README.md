@@ -75,10 +75,10 @@ Backend
 <h2>🖼 Ekran Görüntüleri</h2>
 
 <h3>1 Ana Sayfa</h3>
-<p><img src="public/home.png" width="900" /></p>
+<p><img src="./public/home.png" width="900" /></p>
 
 <h3>2 Users Sayfası</h3>
-<p><img src="public/users.png" width="900" /></p>
+<p><img src="./public/users.png" width="900" /></p>
 
 <h3>3 Posts Sayfası</h3>
-<p><img src="public/posts.png" width="900" /></p>
+<p><img src="./public/posts.png" width="900" /></p>
