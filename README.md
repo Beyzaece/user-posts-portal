@@ -37,7 +37,7 @@ npm run start:dev
 3. Frontend (React + Vite)
 
 Ayrı bir terminalde:
-cd frontend
+#frontend klasörü yok,proje root'tan çalışır
 npm install
 npm run dev
 
