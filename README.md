@@ -73,6 +73,6 @@ Backend
 📌 Notlar
 	•	Backend 4000 portunda, Frontend 5173 portunda çalışır.
 	•	Test için önce backend’i, sonra frontend’i başlatın.
-	•	ESLint & Prettier desteğiyle kod standardı korunmuştur. 
+	
 ---
 
